@@ -1,2 +1,4 @@
 # JornadaByLearn
-Este é meu primeiro projeto. É a primeira versão de uma calculadora de: soma, subtração, multiplicação, divisão e potenciação.
+Este é um repositório que criei para aprender a usar o Github. Contem 2 calculadoras básicas:
+A primeira pode calcular a soma, subtração, multiplicação, divisão e potenciação entre dois números;
+A segunda é uma calculadora de velocidade média.
